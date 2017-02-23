@@ -2,6 +2,7 @@
 A unity shader solution to generate footprint on deep snow surfaces.
 Need shader model 4 or up to support the hull/domain/geometry shaders.
 Currently written for deferred shading path.
+Unity Version: 5.5.1f1.
 
 # Features:
 
