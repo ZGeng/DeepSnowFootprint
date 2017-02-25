@@ -8,5 +8,5 @@ Unity Version: 5.5.1f1.
 # Features:
 
  * 1.Dynamic subdivide and displace the snow ground surface.
- * 2.Generate local UV coordinates to load detailed footprint's abedo and normal maps.
+ * 2.Generate local UV coordinates to load detailed footprint's albedo and normal maps.
  * 3.The footprints generated before will gradully be refilled and disappear.
