@@ -74,7 +74,6 @@ Shader "Sprites/Distance"
 
 				float dist = distance(IN.texcoord, float2(.5f, .5f))*2.0f;
 				OUT.color.a = IN.color.a;
-				//OUT.color.a = dist;
 				OUT.depth = 1.0f-dist;
 				
 				return OUT;
