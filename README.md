@@ -13,5 +13,5 @@ Unity Version: 5.5.1f1.
 
 ## License
 
-[MIT](LICENSE.md) © [Zhen Geng](http://zhengeng.net/)
+[MIT](LICENSE.md)
 
